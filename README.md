@@ -6,4 +6,4 @@ hisadfnnasd, 126263, assfdgsga12348fas, 13123.123, lizierdjfklaasf, 123192u3kjwe
 B) Create a program that will read the generated file above and print to the console the object and its type. Spaces before and after the alphanumeric object must be stripped.
 Sample output :
 youruasdifafasd - alphabetical strings 127371237 - integer asdfka12348fas - alphanumeric 13123.123 - real numbers asjdfklasdjfklaasf - alphabetical strings 123192u3kjwekhf - alphanumeric
-Submittal instruction: Please zip up the 2 programs you have written above (along with the source codes). DO NOT send the 10MB output file. Also include any necessary instruction on how to use the 2 programs.
+
